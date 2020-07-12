@@ -1,4 +1,4 @@
-### Hi there 👋:wink:
+### Hi there 🥴
 
 <!--
 A developer who tries to be creative.
