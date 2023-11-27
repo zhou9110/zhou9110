@@ -1,4 +1,6 @@
-### Hi there 🥴
+### Hi there 🌚
+
+#### I'm David, a Software Engineer.
 
 <!--
 A developer who tries to be creative.
@@ -19,3 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning NextJS, and the next step is Swift UI. 
+- 💬 Ask me about Anything
+- 📫 Reach me through email: david[at]aibuild.com
+
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhou9110&count_private=true&theme=gotham&show_icons=true&hide_border=true)](https://github.com/zhou9110)<br/>
